@@ -2,10 +2,10 @@ This repository is a collection of references related to subjects which I mostly
 
 - [1. :closed_book: General Programming Topics:](#1-closed_book-general-programming-topics)
   - [1.1. Encoding:](#11-encoding)
-  - [1.2. Cross Platform Development](#12-cross-platform-development)
-  - [1.3. Build Systems](#13-build-systems)
-  - [1.4. Software Architecture](#14-software-architecture)
-  - [1.5. Others:](#15-others)
+  - [1.2. Build Systems](#12-build-systems)
+  - [1.3. Software Architecture](#13-software-architecture)
+  - [1.4. Others:](#14-others)
+  - [1.5. :hammer: Tools:](#15-hammer-tools)
 - [2. :movie_camera: Computer Graphics](#2-movie_camera-computer-graphics)
   - [2.1. :books: Books:](#21-books-books)
   - [2.2. :speech_balloon: Talks:](#22-speech_balloon-talks)
@@ -22,22 +22,21 @@ This repository is a collection of references related to subjects which I mostly
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](https://kunststube.net/encoding/)
 
-## 1.2. Cross Platform Development
-- [MXE](https://mxe.cc/) 
-
-## 1.3. Build Systems
+## 1.2. Build Systems
 - [CMake Cookbook: Building, testing, and packaging modular software with modern CMake](https://www.amazon.com/CMake-Cookbook-Building-packaging-software/dp/1788470710)
 - [It's Time To Do CMake Right](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
 - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 - [Conan Package Manager](https://conan.io/) and [Conan Center](https://conan.io/center/)
 
-## 1.4. Software Architecture
+## 1.3. Software Architecture
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 
-## 1.5. Others:
+## 1.4. Others:
 - [Floating Point Demystified, Part 1](https://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html) and [Floating Point Demystified, Part 2](https://blog.reverberate.org/2016/02/06/floating-point-demystified-part2.html)
 - [Memory Alignment](https://developer.ibm.com/technologies/systems/articles/pa-dalign/)
-- 
+
+## 1.5. :hammer: Tools:
+- [Source Trail](https://www.sourcetrail.com/): source explorer
 
 # 2. :movie_camera: Computer Graphics
 - [Adrian Courrèges](http://www.adriancourreges.com/blog/)
@@ -72,6 +71,7 @@ This repository is a collection of references related to subjects which I mostly
 - [Quick C++ Benchmark](https://quick-bench.com/)
 - [Unicode Character Inspector](https://apps.timwhitlock.info/unicode/inspect?s=%C3%A7%C3%A3)
 - [Bloaty](https://github.com/google/bloaty)
+- [MXE](https://mxe.cc/): cross compiler environment
 
 ## 3.4. :books: Books:
 - [Effective Modern C++ book](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_1?crid=243L4NKH05EM0&dchild=1&keywords=effective+modern+c+-+scott+meyers&qid=1594767809&sprefix=effective+moder%2Caps%2C274&sr=8-1)
